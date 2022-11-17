@@ -1,0 +1,33 @@
+.basicInfo {
+    text-align: center;
+    background-color: #050d15;
+    color: aliceblue;
+    border: 8px solid #03519f;
+    margin: 4px;
+    padding: 6px 4px 4px 4 px;
+}
+
+.committees {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #03519f;
+    text-shadow: 1px whitesmoke;
+    background: #050d15;
+    border: 6px solid #950404;
+    margin: 8px 4px 4px 4px;
+}
+
+#legisText {
+    text-align: center;
+    
+}
+
+.legisLinks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: 3px dotted #044c95;
+    margin: 4px;
+    padding: 2px;
+}
